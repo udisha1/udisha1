@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=Udisha%20Narayan&fontSize=50&fontColor=00FF41&fontAlignY=35&desc=B.Tech%20CSE%20%40%20SKIT%2C%20Jaipur&descAlignY=55&descSize=18&animation=fadeIn&v=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0083b2&height=200&section=header&text=Udisha%20Narayan&fontSize=50&fontColor=fffafa&fontAlignY=35&desc=B.Tech%20CSE%20%40%20SKIT%2C%20Jaipur&descAlignY=55&descSize=18&animation=fadeIn&v=1" width="100%"/>
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -16,10 +16,10 @@
 
 <br/>
 <a href="#">
-<img src="https://komarev.com/ghpvc/?username=udisha1&color=00ff41&label=Profile+Visits&style=flat-square" alt="Profile Visits" width="160"/>
+<img src="https://komarev.com/ghpvc/?username=udisha1&color=a984bf&label=Profile+Visits&style=flat-square" alt="Profile Visits" width="160"/>
 &nbsp;
 
-<img src="https://img.shields.io/badge/status-open_to_internships-00FF41?style=flat-square&labelColor=0d1117" alt="status"/>
+<img src="https://img.shields.io/badge/status-open_to_contribute-a984bf?style=flat-square&labelColor=0d1117" alt="status"/>
 </a>
 </div>
 
@@ -242,6 +242,6 @@ Approach    : Collaborative filtering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083b2,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
