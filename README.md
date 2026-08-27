@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=Udisha%20Sharma&fontSize=50&fontColor=00FF41&fontAlignY=35&desc=B.Tech%20CSE%20%40%20SKIT%2C%20Jaipur%20%7C%20AI%2FML%20%26%20Full-Stack%20Dev&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=Udisha%20Narayan&fontSize=50&fontColor=00FF41&fontAlignY=35&desc=B.Tech%20CSE%20%40%20SKIT%2C%20Jaipur%20%7C%20AI%2FML%20and%20Full-Stack%20Dev&descAlignY=55&descSize=18&animation=fadeIn&v=1" width="100%"/>
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│   > SYSTEM BOOT...                                       │
-│   > LOADING PROFILE: udisha1                             │
-│   >......
+│   > SYSTEM BOOT...                                      │
+│   > LOADING PROFILE: udisha1                            │
+│   > STATUS: ONLINE ██████████ 100%                      │
 └─────────────────────────────────────────────────────────┘
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=650&lines=hola+!+I+am+Udisha+%2C+welcome+to+my+tech+corner+%3E_;pre-final+year+%7C+SKIT+Jaipur+%7C+CSE;GSSoC+%2726+Project+Admin;building+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
-
+<a href="#">
 <img src="https://komarev.com/ghpvc/?username=udisha1&color=00ff41&label=Profile+Visits&style=flat-square" alt="Profile Visits" width="160"/>
 &nbsp;
-<img src="https://img.shields.io/badge/status-open_to_internships-00FF41?style=flat-square&labelColor=0d1117" alt="status"/>
 
+<img src="https://img.shields.io/badge/status-open_to_internships-00FF41?style=flat-square&labelColor=0d1117" alt="status"/>
+</a>
 </div>
 
 <br/>
@@ -25,9 +26,9 @@
 <div align="center">
 
 ### `> fortune | cowsay`
-
+<a href="#">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" width="90%"/>
-
+</a>
 </div>
 
 ---
@@ -35,11 +36,12 @@
 <div align="center">
 
 ## `📊 github_stats.exe`
-
+<a href="#">
 <img src="https://github-readme-stats.shion.dev/api?username=udisha1&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="400" />
-
+</a>
+<a href="#">
 <img src="https://leetcard.jacoblin.cool/udisha244?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap" alt="LeetCode Stats" width="40%"  height="400"/>
-
+</a>
 
 </div>
 
@@ -88,9 +90,9 @@ looking_for: SWE / ML internships
 <div align="center">
   
 ## `> Skills`
-
+<a href="#">
 **// languages**
-
+</br>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript&theme=dark" width="230" />
 
 **// frontend & backend**
@@ -108,7 +110,7 @@ looking_for: SWE / ML internships
 <img src="https://img.shields.io/badge/Gemini_API-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/XGBoost-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/SHAP-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
-
+</a>
 </div>
 
 ---
