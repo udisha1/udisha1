@@ -6,7 +6,7 @@
 ┌─────────────────────────────────────────────────────────┐
 │   > SYSTEM BOOT...                                       │
 │   > LOADING PROFILE: udisha1                             │
-│   > STATUS: ONLINE ██████████ 100%                       │
+│   >......
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -36,9 +36,9 @@
 
 ## `📊 github_stats.exe`
 
-<img src="https://github-readme-stats.shion.dev/api?username=udisha1&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.shion.dev/api?username=udisha1&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="400" />
 
-<img src="https://leetcard.jacoblin.cool/udisha244?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap" alt="LeetCode Stats" width="60%"  height="40%"/>
+<img src="https://leetcard.jacoblin.cool/udisha244?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap" alt="LeetCode Stats" width="40%"  height="400"/>
 
 
 </div>
@@ -214,7 +214,7 @@ Approach    : Collaborative filtering
 ## `> ./connect.sh`
 
 <!-- Apne actual links daal dena -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](www.linkedin.com/in/udisha-narayan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/udisha-narayan)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/udisha1)
 [![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:udishajvm@gmail.com)
 
