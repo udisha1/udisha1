@@ -1,76 +1,71 @@
-<!-- Dynamic Header with Typing Effect -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Udisha+Narayan+👋;Engineering+Student+%40+RTU;AI+%26+Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Live Portfolio & Social Links -->
-<div align="center">
+  <h1 align="center">UDISHA NARAYAN</h1>
+  <p align="center">
+    <i>Engineering Student | AI & Data Science | Open Source Contributor</i>
+  </p>
+  
+  <!-- Premium Vercel & Connect Buttons -->
   <a href="https://portfolio-five-delta-14.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/View_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Email_Me-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<br>
+<br><br>
 
----
+<!-- BENTO BOX GRID LAYOUT -->
+<table align="center" width="100%" border="0" cellpadding="20">
+  
+  <!-- ROW 1: Achievements & Current Focus -->
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <h3 align="center">🏆 National Semifinalist</h3>
+      <p align="center"><b>Flipkart GRiD 8.0 Engineering Challenge</b></p>
+      <p align="center"><i>Competed at the national level, showcasing advanced problem-solving and software engineering skills.</i></p>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <h3 align="center">🚀 Current Focus: PranaAI</h3>
+      <p align="center"><i>Architecting an AI-based health and lifestyle application to provide intelligent, data-driven improvement recommendations.</i></p>
+    </td>
+  </tr>
 
-### 👩‍💻 About Me
-I'm a second-year engineering student based in Jaipur, passionate about architecting intelligent systems, exploring data science, and contributing to open-source ecosystems. I love turning complex data into actionable insights and building web applications that make an impact.
+  <!-- ROW 2: Open Source & Tech Stack -->
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <h3 align="center">🌍 Open Source Impact</h3>
+      <ul>
+        <li><b>GSSoC 2025:</b> Selected Open-Source Contributor.</li>
+        <li><b>GSoC 2026:</b> Project proposals submitted for QC-Devs and EROFS.</li>
+        <li><b>Upskilling:</b> Kaggle 5-Day AI Agents Intensive & IBM Cloud Computing Credential.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0d1117">
+      <h3 align="center">🛠️ Tech Arsenal</h3>
+      <div align="center">
+        <!-- Monochrome/Minimal Badges -->
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      </div>
+    </td>
+  </tr>
 
-### 🛠️ Tech Arsenal
-<details open>
-  <summary><b>Languages & Frameworks</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  </p>
-</details>
+  <!-- ROW 3: Analytics (Seamless Blend) -->
+  <tr>
+    <td colspan="2" align="center" bgcolor="#0d1117">
+      <h3 align="center">📈 GitHub Analytics</h3>
+      <p align="center">
+        <!-- Notice the bg_color=0d1117 to blend with the table background perfectly -->
+        <img src="https://github-readme-stats.vercel.app/api?username=udisha1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ADB5&icon_color=00ADB5&text_color=c9d1d9" height="160"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udisha1&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ADB5&text_color=c9d1d9" height="160"/>
+      </p>
+    </td>
+  </tr>
 
-<details open>
-  <summary><b>Data Science & Machine Learning</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/XGBoost-172B4D?style=for-the-badge&logo=xgboost&logoColor=white" />
-  </p>
-</details>
-
-<br>
-
-### 🚀 Featured Work & Achievements
-
-| 🏆 Competitive & Open Source | 💻 Projects & Certifications |
-| :--- | :--- |
-| **National Semifinalist** <br> Flipkart GRiD 8.0 Engineering Challenge | **PranaAI** <br> Architecting an AI-based health and lifestyle application for intelligent recommendations. |
-| **GSoC 2026 & GSSoC 2025** <br> Selected open-source contributor and project proposer (QC-Devs, EROFS). | **5-Day AI Agents Intensive** <br> Completed Vibe Coding Course on Kaggle. |
-| **Flipkart GWC 7.0** <br> Shortlisted candidate & assessment qualifier. | **Cloud Computing Fundamentals** <br> Digital Credential earned via IBM SkillsBuild. |
-
-<br>
-
-### 📊 GitHub Trophies & Analytics
-<div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=udisha1&theme=dracula&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <!-- Dynamic Stats -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=udisha1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udisha1&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-</div>
+</table>
