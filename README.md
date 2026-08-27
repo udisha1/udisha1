@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Udisha! 👋
 
-<!--
-**udisha1/udisha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Dynamic Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Engineering+Student;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+I'm an engineering student and passionate developer focused on building impactful software and exploring data science. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm currently working on
+* Developing **PranaAI**, an AI-based health and lifestyle application.
+* Contributing to open-source projects as a selected developer for **GirlScript Summer of Code (GSSoC) 2025**.
+
+## 📊 My Live GitHub Stats
+<!-- Dynamic Stat Cards using your username 'udisha1' -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udisha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Udisha's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udisha1&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<br>
+
+## 🛠️ Tech Stack
+* **Languages:** Python, Java, C++
+* **Data Science & ML:** Scikit-learn, XGBoost, Pandas, NumPy
+* **Web Development:** Flask, React
+
+
