@@ -35,12 +35,14 @@
 
 <div align="center">
 
-## `📊 github_stats.exe`
+## `📊 Coding DashBoard`
+
 <a href="#">
-<img src="https://github-readme-stats.shion.dev/api?username=udisha1&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udisha1&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41" alt="GitHub Streak" height="300" />
 </a>
+&nbsp;&nbsp;
 <a href="#">
-<img src="https://leetcard.jacoblin.cool/udisha244?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap" alt="LeetCode Stats" width="40%"  height="400"/>
+  <img src="https://leetcard.jacoblin.cool/udisha244?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap" alt="LeetCode Stats" height="250" />
 </a>
 
 </div>
@@ -88,29 +90,39 @@ looking_for: SWE / ML internships
 </br>
   
 <div align="center">
-  
+
 ## `> Skills`
+
+**`// languages`**<br/>
 <a href="#">
-**// languages**
-</br>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript&theme=dark" width="230" />
-
-**// frontend & backend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,vite&theme=dark" width="320" />
-
-**// databases & devops**
-
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vercel&theme=dark" width="220" />
-
-**// ai / ml**
-
-<img src="https://img.shields.io/badge/Google_ADK-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MCP_Servers-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Gemini_API-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/XGBoost-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SHAP-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript&theme=dark" width="230" />
 </a>
+
+<br/><br/>
+
+**`// frontend & backend`**<br/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,vite&theme=dark" width="320" />
+</a>
+
+<br/><br/>
+
+**`// databases & devops`**<br/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vercel&theme=dark" width="220" />
+</a>
+
+<br/><br/>
+
+**`// ai / ml`**<br/>
+<a href="#">
+  <img src="https://img.shields.io/badge/Google_ADK-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MCP_Servers-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gemini_API-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/XGBoost-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/SHAP-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+</a>
+
 </div>
 
 ---
