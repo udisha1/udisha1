@@ -11,6 +11,8 @@
 ## 👩‍💻 About Me
 I am a developer passionate about building impactful software and exploring the depths of data science. I thrive on solving complex problems, building intelligent systems, and contributing to the open-source community.
 
+<img src="https://komarev.com/ghpvc/?username=udisha1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 ## 🛠️ Tech Arsenal
 <p align="left">
   <!-- Languages -->
