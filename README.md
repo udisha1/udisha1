@@ -11,14 +11,6 @@ I'm an engineering student and passionate developer focused on building impactfu
 * Developing **PranaAI**, an AI-based health and lifestyle application.
 * Contributing to open-source projects as a selected developer for **GirlScript Summer of Code (GSSoC) 2025**.
 
-## 📊 My Live GitHub Stats
-<!-- Dynamic Stat Cards using your username 'udisha1' -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udisha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Udisha's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udisha1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br>
 
 ## 🛠️ Tech Stack
 * **Languages:** Python, Java, C++
