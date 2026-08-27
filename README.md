@@ -24,17 +24,22 @@
 
 <div align="center">
 
+### `> fortune | cowsay`
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" width="90%"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ## `📊 github_stats.exe`
 
 <img src="https://github-readme-stats.shion.dev/api?username=udisha1&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=udisha1&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
 
-<img src="https://streak-stats.demolab.com/?user=udisha1&theme=chartreuse-dark&hide_border=true" alt="Streak Stats" height="165"/>
+<img src="https://leetcard.jacoblin.cool/udisha244?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap" alt="LeetCode Stats" width="60%"  height="40%"/>
 
-<!-- Apna LeetCode username daal ke uncomment kar dena -->
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap) -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udisha1&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -106,56 +111,86 @@ looking_for: SWE / ML internships
 
 ## `> cat projects.log`
 
+<i>click any project to expand full details ↓</i>
+
 </div>
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><b>🩺 AyurCare Agent</b> — Multi-agent AI system | Kaggle AI Agents Intensive Capstone</summary>
+<br/>
 
-**🩺 AyurCare Agent**
-_Kaggle AI Agents Intensive Capstone_
+```
+Stack       : Google ADK (Python), MCP server, React + Vite frontend
+Deployment  : Vercel
 
-Multi-agent AI system built with Google ADK (Python), an MCP server, and a React + Vite frontend, deployed on Vercel.
+Architecture (5-agent pipeline):
+  IntakeAgent            → collects user symptoms/prakriti inputs
+  PrakritiAgent          → determines Ayurvedic body-type profile
+  AyurvedaKnowledgeAgent → retrieves relevant Ayurvedic knowledge
+  RecommendationAgent    → generates personalized recommendations
+  SafetyValidatorAgent   → validates outputs before returning to user
 
-5-agent pipeline: `Intake → Prakriti → Knowledge → Recommendation → SafetyValidator`
+Notable    : Debugged Gemini API 503 errors + key-config issues,
+             recovered project after a laptop hardware scare
+             right before submission.
+```
 
-`Python` `Google ADK` `MCP` `React` `Vercel`
+`Python` `Google ADK` `MCP` `React` `Vite` `Vercel`
 
-</td>
-<td width="50%" valign="top">
+🔗 [github.com/udisha1/ayurcare-agent](https://github.com/udisha1/ayurcare-agent)
 
-**🌿 Ayurveda Daily**
-_GSSoC '26 — Project Admin_
+</details>
 
-Full-stack Ayurveda web app. Manages external contributors, GitHub rulesets, and PR/build troubleshooting for the project.
+<details>
+<summary><b>🌿 Ayurveda Daily</b> — Full-stack Ayurveda web app | GSSoC '26 Project Admin</summary>
+<br/>
+
+```
+Stack       : Angular, Node.js, MongoDB, Gemini API
+Deployment  : Vercel / Render
+
+Role        : Project Admin under GSSoC '26
+  - Manages external open-source contributors
+  - Sets up GitHub rulesets & branch protections
+  - Troubleshoots contributor PRs and build failures
+  - Resolved Angular-specific deployment issues on Vercel
+```
 
 `Angular` `Node.js` `MongoDB` `Gemini API`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-**🎗️ Breast Cancer Detection**
-_ML Project_
+<details>
+<summary><b>🎗️ Breast Cancer Detection</b> — ML classifier deployed as a serverless function</summary>
+<br/>
 
-Serverless Python function deployed on Vercel with embedded Logistic Regression weights — ~97% accuracy.
+```
+Stack       : Python, scikit-learn (Logistic Regression)
+Deployment  : Vercel serverless function
+Accuracy    : ~97%
+
+Notable     : Model weights embedded directly in the serverless
+              function for lightweight, dependency-free inference.
+```
 
 `Python` `Logistic Regression` `Vercel`
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-**💄 Beauty Product Recommender**
-_ML Project_
+<details>
+<summary><b>💄 Beauty Product Recommender</b> — Collaborative filtering recommendation engine</summary>
+<br/>
 
-Collaborative filtering recommendation system trained on 500K+ user-item interactions.
+```
+Stack       : Python
+Data        : 500K+ user-item interactions
+Approach    : Collaborative filtering
+```
 
 `Python` `Collaborative Filtering`
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -179,9 +214,9 @@ Collaborative filtering recommendation system trained on 500K+ user-item interac
 ## `> ./connect.sh`
 
 <!-- Apne actual links daal dena -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](www.linkedin.com/in/udisha-narayan)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/udisha1)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:udishajvm@gmail.com)
 
 </div>
 
