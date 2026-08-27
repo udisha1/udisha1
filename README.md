@@ -81,7 +81,13 @@ looking_for: SWE / ML internships
 
 <div align="center">
 
-## `> ls skills/`
+<details>
+<summary><code><b> Click Me !</b></code></summary>
+</br>
+  
+<div align="center">
+  
+## `> Skills`
 
 **// languages**
 
@@ -215,7 +221,6 @@ Approach    : Collaborative filtering
 
 <!-- Apne actual links daal dena -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/udisha-narayan)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/udisha1)
 [![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:udishajvm@gmail.com)
 
 </div>
