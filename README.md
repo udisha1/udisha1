@@ -10,7 +10,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=650&lines=hola+!+I+am+Udisha+%2C+welcome+to+my+tech+corner+%3E_;pre-final+year+%7C+SKIT+Jaipur+%7C+CSE;GSSoC+%2726+Project+Admin;building+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=650&lines=Hi+!+I+am+Udisha+%2C+welcome+to+my+tech+corner+%3E_;pre-final+year+%7C+SKIT+Jaipur+%7C+CSE;building+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
 <a href="#">
@@ -32,7 +32,12 @@
 </div>
 
 ---
+<div align="center">
 
+<details>
+<summary><code><b> Click Me !</b></code></summary>
+</br>
+  
 <div align="center">
 
 ## `📊 Coding DashBoard`
@@ -83,12 +88,6 @@ looking_for: SWE / ML internships
 
 ---
 
-<div align="center">
-
-<details>
-<summary><code><b> Click Me !</b></code></summary>
-</br>
-  
 <div align="center">
 
 ## `> Skills`
