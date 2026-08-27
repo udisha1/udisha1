@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=Udisha%20Narayan&fontSize=50&fontColor=00FF41&fontAlignY=35&desc=B.Tech%20CSE%20%40%20SKIT%2C%20Jaipur%20%7C%20AI%2FML%20and%20Full-Stack%20Dev&descAlignY=55&descSize=18&animation=fadeIn&v=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=Udisha%20Narayan&fontSize=50&fontColor=00FF41&fontAlignY=35&desc=B.Tech%20CSE%20%40%20SKIT%2C%20Jaipur&descAlignY=55&descSize=18&animation=fadeIn&v=1" width="100%"/>
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -10,7 +10,9 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=650&lines=Hi+!+I+am+Udisha+%2C+welcome+to+my+tech+corner+%3E_;pre-final+year+%7C+SKIT+Jaipur+%7C+CSE;building+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=650&lines=Welcome+to+my+creative+space.;I+am+Udisha,+building+tech+with+purpose;Turning+complex+ideas+into+impactful+software." alt="Typing SVG" />
+</a>
 
 <br/>
 <a href="#">
