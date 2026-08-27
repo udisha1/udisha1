@@ -94,34 +94,34 @@ looking_for: SWE / ML internships
 
 ## `> Skills`
 
-**`// languages`**<br/>
+**`Languages`**<br/>
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript&theme=dark" width="230" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" width="230" />
 </a>
 
 <br/><br/>
 
-**`// frontend & backend`**<br/>
+**`Frontend & Backend`**<br/>
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,vite&theme=dark" width="320" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,angular,nodejs,vite&theme=dark" width="320" />
 </a>
 
 <br/><br/>
 
-**`// databases & devops`**<br/>
+**`Databases & Devops`**<br/>
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vercel&theme=dark" width="220" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,jenkins,vercel&theme=dark" width="220" />
 </a>
 
 <br/><br/>
 
-**`// ai / ml`**<br/>
+**`AI/ML`**<br/>
 <a href="#">
-  <img src="https://img.shields.io/badge/Google_ADK-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/MCP_Servers-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Gemini_API-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/XGBoost-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/SHAP-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ Generative_AI,-c0d8f2?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-c0d8f2?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gemini_API-c0d8f2?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/XGBoost-c0d8f2?style=for-the-badge&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Neural_Networks-c0d8f2?style=for-the-badge&logoColor=black&labelColor=0d1117" />
 </a>
 
 </div>
