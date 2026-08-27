@@ -1,5 +1,4 @@
 <!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Udisha%20Narayan&fontSize=50&fontAlignY=35&desc=Engineering%20Student%20%7C%20AI%20%26%20Open%20Source&descAlignY=55" width="100%"/>
 
 <div align="center">
   <a href="https://portfolio-five-delta-14.vercel.app" target="_blank">
@@ -34,8 +33,3 @@ I am a developer passionate about building impactful software and exploring the 
 | **Semifinalist** at the **Flipkart GRiD 8.0** National Engineering Challenge. | **PranaAI**: Architecting an AI-based health and lifestyle application for intelligent recommendations. |
 | Selected Contributor for **GirlScript Summer of Code (GSSoC) 2025**. | Building out predictive models using **Scikit-learn** and **XGBoost**. |
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udisha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Udisha's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udisha1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
