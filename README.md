@@ -14,15 +14,6 @@ I'm an engineering student and passionate developer focused on building impactfu
 ## 🏆 Achievements
 * **Semifinalist** in the **Flipkart GRiD 8.0** National Engineering Challenge.
 
-## 📊 My Live GitHub Stats
-<!-- Dynamic Stat Cards using your username 'udisha1' -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udisha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Udisha's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udisha1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br>
-
 ## 🛠️ Tech Stack
 * **Languages:** Python, Java, C++
 * **Data Science & ML:** Scikit-learn, XGBoost, Pandas, NumPy
