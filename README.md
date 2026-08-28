@@ -45,10 +45,6 @@
 ## `📊 Coding DashBoard`
 
 <a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udisha1&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41" alt="GitHub Streak" height="300" />
-</a>
-&nbsp;&nbsp;
-<a href="#">
   <img src="https://leetcard.jacoblin.cool/udisha244?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap" alt="LeetCode Stats" height="250" />
 </a>
 
