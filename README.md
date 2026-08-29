@@ -62,9 +62,8 @@
 name:        Udisha
 education:   B.Tech CSE, SKIT Jaipur
 graduating:  2028
-cgpa:        ~8.75
+cgpa:        ~8.82
 focus:       AI/ML + Full-Stack Development
-looking_for: SWE / ML internships
 ```
 
 </td>
@@ -123,99 +122,12 @@ looking_for: SWE / ML internships
 </div>
 
 ---
-
-<div align="center">
-
-## `> cat projects.log`
-
-<i>click any project to expand full details ↓</i>
-
-</div>
-<br/>
-
-<details>
-<summary><b>🩺 AyurCare Agent</b> — Multi-agent AI system | Kaggle AI Agents Intensive Capstone</summary>
-<br/>
-
-```
-Stack       : Google ADK (Python), MCP server, React + Vite frontend
-Deployment  : Vercel
-
-Architecture (5-agent pipeline):
-  IntakeAgent            → collects user symptoms/prakriti inputs
-  PrakritiAgent          → determines Ayurvedic body-type profile
-  AyurvedaKnowledgeAgent → retrieves relevant Ayurvedic knowledge
-  RecommendationAgent    → generates personalized recommendations
-  SafetyValidatorAgent   → validates outputs before returning to user
-
-Notable    : Debugged Gemini API 503 errors + key-config issues,
-             recovered project after a laptop hardware scare
-             right before submission.
-```
-
-`Python` `Google ADK` `MCP` `React` `Vite` `Vercel`
-
-🔗 [github.com/udisha1/ayurcare-agent](https://github.com/udisha1/ayurcare-agent)
-
-</details>
-
-<details>
-<summary><b>🌿 Ayurveda Daily</b> — Full-stack Ayurveda web app | GSSoC '26 Project Admin</summary>
-<br/>
-
-```
-Stack       : Angular, Node.js, MongoDB, Gemini API
-Deployment  : Vercel / Render
-
-Role        : Project Admin under GSSoC '26
-  - Manages external open-source contributors
-  - Sets up GitHub rulesets & branch protections
-  - Troubleshoots contributor PRs and build failures
-  - Resolved Angular-specific deployment issues on Vercel
-```
-
-`Angular` `Node.js` `MongoDB` `Gemini API`
-
-</details>
-
-<details>
-<summary><b>🎗️ Breast Cancer Detection</b> — ML classifier deployed as a serverless function</summary>
-<br/>
-
-```
-Stack       : Python, scikit-learn (Logistic Regression)
-Deployment  : Vercel serverless function
-Accuracy    : ~97%
-
-Notable     : Model weights embedded directly in the serverless
-              function for lightweight, dependency-free inference.
-```
-
-`Python` `Logistic Regression` `Vercel`
-
-</details>
-
-<details>
-<summary><b>💄 Beauty Product Recommender</b> — Collaborative filtering recommendation engine</summary>
-<br/>
-
-```
-Stack       : Python
-Data        : 500K+ user-item interactions
-Approach    : Collaborative filtering
-```
-
-`Python` `Collaborative Filtering`
-
-</details>
-
----
-
 <div align="center">
 
 ## `> cat achievements.log`
 
 ```
+[★] Semifinalist ................. Flipkart Grid 8.0
 [★] GSSoC '25 ................. Open Source Contributor
 [★] GSSoC '26 ................. Project Admin — Ayurveda Daily
 [★] NPTEL Elite (2025) ......... IIT Madras — Python & DSA
